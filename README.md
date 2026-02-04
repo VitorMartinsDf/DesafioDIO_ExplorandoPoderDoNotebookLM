@@ -51,32 +51,32 @@ Por isso, o conteúdo foi organizado manualmente em arquivos Markdown (`.md`), p
 
 ## 🗂 Estrutura do Repositório
 
+```
 DesafioDIO_ExplorandoPoderDoNotebookLM/
 │
 ├── README.md
 │
 ├── 01-visao-geral/
-│ ├── tema-e-publico.md
-│ ├── objetivos-de-estudo.md
-│ └── fontes.md
+│   ├── tema-e-publico.md
+│   ├── objetivos-de-estudo.md
+│   └── fontes.md
 │
 ├── 02-renda-fixa-vs-variavel/
-│ ├── perguntas.md
-│ ├── variacoes-de-prompts.md
-│ └── respostas.md
+│   ├── perguntas.md
+│   ├── variacoes-de-prompts.md
+│   └── respostas.md
 │
 ├── 03-indicadores-financeiros/
-│ ├── conceito-e-funcao.md
-│ ├── classificacao.md
+│   ├── conceito-e-funcao.md
+│   ├── classificacao.md
 │
 ├── 04-mentalidade-do-investidor/
-│ └── principios.md
+│   └── principios.md
 │
 └── 05-glossario/
-└── glossario.md
+    └── glossario.md
+```
 
-
----
 
 ## 📚 Fontes Utilizadas
 
